@@ -12,13 +12,14 @@ export default function ContactForm() {
           {/* Left: Contact Info */}
           <div className="space-y-6">
             <p className="text-lg text-gray-300">
-              I'd love to hear from you! Whether it's a question, project idea, or just to say hello —
+              I&apos;d love to hear from you! Whether it&apos;s a question, project idea, or just to say hello —
               feel free to reach out.
             </p>
+
             <div className="text-md leading-relaxed space-y-2">
               <p>
                 <strong>Phone:</strong>{' '}
-                <a  className="text-indigo-400 ">
+                <a className="text-indigo-400 ">
                   +91 8857990312
                 </a>
               </p>
